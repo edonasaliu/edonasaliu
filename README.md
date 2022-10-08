@@ -1,16 +1,13 @@
-### Hi there 👋
+# Official GitHub of Edona Saliu
 
-<!--
-**edonasaliu/edonasaliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ## Hi there I'm Edona Saliu, a **Sophmore at Minerva University.**
 
-Here are some ideas to get you started:
+I am currently a sophomore at Minerva University, majoring in Computer Science and minoring in Artificial Intelligence. My goals are to enhance my skills and experiences in Software Development, Data Science and Algorithms, Machine Learning, and AI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python, C/C++, Java, REACT, Data and Statistical Analysis, HTML, SQL
+Courses: Data Structure and Algorithms | Math | Statistical analysis |Multivariate Calculus| Programming
+
+Here are some of the places where you can find me:
+
+- **LinkedIn**: [https://www.linkedin.com/in/edonasaliu/](https://www.linkedin.com/in/edonasaliu/)
+- **Email**: [edonasaliu3@gmail.com]
