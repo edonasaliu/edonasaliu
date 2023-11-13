@@ -12,7 +12,7 @@ Courses: Software Engineering, Data Structures & Algorithms, Multivariate Calcul
 Here are some of the places where you can find me:
 
 - **LinkedIn**: [https://www.linkedin.com/in/edonasaliu/](https://www.linkedin.com/in/edonasaliu/)
-- **Email**: [edonasaliu3@gmail.com]
+- **Email**: edonasaliu3@gmail.com
 
 
 
