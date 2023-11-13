@@ -24,3 +24,10 @@ Here are some of the places where you can find me:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edonasaliu&layout=compact&theme=dark)
 
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edonasaliu&show_icons=true&theme=dark)
+
+## GitHub Contributions
+
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=edonasaliu&theme=dark)  
