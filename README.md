@@ -14,6 +14,6 @@ Here are some of the places where you can find me:
 - **LinkedIn**: [https://www.linkedin.com/in/edonasaliu/](https://www.linkedin.com/in/edonasaliu/)
 - **Email**: [edonasaliu3@gmail.com]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edonasaliu&show_icons=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edonasaliu&layout=compact)
 
