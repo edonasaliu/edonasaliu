@@ -4,8 +4,10 @@
 
 I am currently a rising junior at Minerva University, majoring in Computer Science and Artificial Intelligence. My goals are to enhance my skills and experiences in Software Development, Data Science and Algorithms, Machine Learning, and AI. 
 
-Skills: Python(advanced), C/C++(advanced), Java(advanced), JavaScript, REACT, Algorithms and Data Structures, HTML, SQL
-Courses: Data Structures and Algorithms, Multivariate Calculus, Formal Analysis, Empirical analysis
+***Current Internship (Summer and Fall): Backend Software Engineering Intern - The New York Times***
+
+Skills: Python, Java, JavaScript, Git, Bash, Go, Kubernetes, K6, Docker, Rust, TensorFlow, React, C/C++, HTML, SQL, .NET, Flask
+Courses: Software Engineering, Data Structures & Algorithms, Multivariate Calculus, Probability and Statistics
 
 Here are some of the places where you can find me:
 
