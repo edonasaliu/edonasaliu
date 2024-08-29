@@ -2,7 +2,7 @@
 
  ## Hi there I'm Edona Saliu
 
-I am currently a rising junior at Minerva University, majoring in Computer Science and Artificial Intelligence. My goals are to enhance my skills and experiences in Software Development, Data Science and Algorithms, Machine Learning, and AI. 
+I am currently a senior at Minerva University, majoring in Computer Science and Artificial Intelligence. My goals are to enhance my skills and experiences in Software Development, Data Science and Algorithms, Machine Learning, and AI. 
 
 ***Current Internship (Summer and Fall): Backend Software Engineering Intern - The New York Times***
 
