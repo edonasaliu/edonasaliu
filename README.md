@@ -4,7 +4,7 @@
 
 I am currently a senior at Minerva University, majoring in Computer Science and Artificial Intelligence. My goals are to enhance my skills and experiences in Software Development, Data Science and Algorithms, Machine Learning, and AI. 
 
-***Current Internship (Summer 2024): Backend Software Engineering Intern - Robinhood***
+*** Latest Internship (Summer 2024): Backend Software Engineering Intern - Robinhood***
 
 Skills: Python, Java, JavaScript, Git, Bash, Go, Kubernetes, K6, Docker, Rust, TensorFlow, React, C/C++, HTML, SQL, .NET, Flask
 
